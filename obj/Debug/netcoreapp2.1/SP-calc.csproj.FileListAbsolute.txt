@@ -1,0 +1,11 @@
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\bin\Debug\netcoreapp2.1\SP-calc.deps.json
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\bin\Debug\netcoreapp2.1\SP-calc.runtimeconfig.json
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\bin\Debug\netcoreapp2.1\SP-calc.runtimeconfig.dev.json
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\bin\Debug\netcoreapp2.1\SP-calc.dll
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\bin\Debug\netcoreapp2.1\SP-calc.pdb
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\obj\Debug\netcoreapp2.1\SP-calc.csprojAssemblyReference.cache
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\obj\Debug\netcoreapp2.1\SP-calc.csproj.CoreCompileInputs.cache
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\obj\Debug\netcoreapp2.1\SP-calc.AssemblyInfoInputs.cache
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\obj\Debug\netcoreapp2.1\SP-calc.AssemblyInfo.cs
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\obj\Debug\netcoreapp2.1\SP-calc.dll
+C:\Users\abowar\Documents\.NET\SP-calc\SP-calc\obj\Debug\netcoreapp2.1\SP-calc.pdb
