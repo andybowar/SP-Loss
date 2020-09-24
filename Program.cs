@@ -6,7 +6,6 @@ namespace SP_calc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             SPLossCalc calc = new SPLossCalc();
 
             Console.WriteLine("What is the largest diameter duct being run?");
@@ -30,6 +29,7 @@ namespace SP_calc
                 Convert.ToDouble(flexLength), 
                 Convert.ToInt32(num45), 
                 Convert.ToInt32(num90)));
+
             Console.ReadLine();
         }
     }
